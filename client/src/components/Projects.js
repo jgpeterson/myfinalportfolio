@@ -38,7 +38,7 @@ class Projects extends Component {
                     <img src={site.name}/>
                     <div>
                     <p>{site.description}</p>
-                   <p> <a href={site.info}>Click Here to View</a></p>
+                   <p> <a href={site.info}><button>Click Here to View</button></a></p>
                     </div>
                 </div>
                 
