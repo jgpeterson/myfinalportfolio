@@ -21,3 +21,8 @@ body {
   font-size: 30px;
   color: white;
 }
+
+.photo img {
+  max-width: 300px;
+  max-height: auto;
+}

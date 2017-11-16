@@ -14,7 +14,7 @@ margin-bottom: 8px;
 margin-right: 8px;
 margin-left: 170px;
 border-radius: 50px;
-padding: 2em;
+padding: 18em;
 position: relative;
 min-width: 340px;
 max-width:800px;
@@ -47,6 +47,9 @@ class Projects extends Component {
         const sites = this.state.projects.map((site) => {
             return (
                 <FlexContainer>
+                <div>
+                <Header />
+                </div>
                 <div>
                     <img src={site.name}/>
                     <div>
