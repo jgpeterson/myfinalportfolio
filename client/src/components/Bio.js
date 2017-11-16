@@ -22,6 +22,7 @@ class Bio extends Component {
     render() {
         return (
             <div>
+            <Header />
              <FlexContainer>
     <p class="bio">My name is James Peterson and I am a full-stack Web Application Develope,r currently living in Atlanta, Georgia. I have a Web Development certification from GA Assembly in Atlanta. In my spare time you can find me editing videos using Adobe Premeire or editing music using Adobe Audition.
                    My only passion in life is to create and I think that without the ability and freedom to create any piece of art, one would go insane. 
