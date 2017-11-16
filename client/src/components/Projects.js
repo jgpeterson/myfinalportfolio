@@ -2,11 +2,23 @@ import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
 import axios from 'axios'
 import styled from 'styled-components'
-
+import Header from './Header'
 
 const FlexContainer = styled.div`
-   display: flex;
-    justify-content: space-around;
+text-align: center;
+display: inline-block;
+width:85%;
+background: white;
+border: 1px solid #B9D6C2 ;
+margin-bottom: 8px;
+margin-right: 8px;
+margin-left: 170px;
+border-radius: 50px;
+padding: 2em;
+position: relative;
+min-width: 340px;
+max-width:800px;
+
 
     img {
         height: 400px;
