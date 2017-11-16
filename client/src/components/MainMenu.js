@@ -21,7 +21,7 @@ class MainMenu extends Component {
             <FlexContainer>
            
             
-            <img src="https://i.imgur.com/y91yArb.jpg"/> 
+            <img src="https://i.imgur.com/hSN4FUK.jpg"/> 
            
             </FlexContainer>
            </div>
