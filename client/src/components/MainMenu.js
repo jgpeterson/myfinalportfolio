@@ -9,7 +9,7 @@ import Projects from './Projects'
 const FlexContainer = styled.div`
 display: flex;
 justify-content: space-around;
-padding: 250px;
+padding: 20px;
 float: center;
 `
 
@@ -21,7 +21,7 @@ class MainMenu extends Component {
             <FlexContainer>
            
             
-            <img src="https://i.imgur.com/xbuJ7TW.jpg?1"/> 
+            <img src="https://i.imgur.com/y91yArb.jpg"/> 
            
             </FlexContainer>
            </div>
