@@ -12,6 +12,11 @@ const FlexContainer = styled.div`
     }
 `
 
+const Back = styled.div`
+margin: 50px;
+`
+
+
 
 class Projects extends Component {
     state = {
@@ -32,7 +37,7 @@ class Projects extends Component {
 
         const sites = this.state.projects.map((site) => {
             return (
-                
+                <Back>
                 <FlexContainer>
                 <div>
                     <img src={site.name}/>
@@ -43,6 +48,7 @@ class Projects extends Component {
                 </div>
                 
                 </FlexContainer>
+                </Back>
                 
             )
         })
