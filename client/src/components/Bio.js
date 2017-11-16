@@ -6,23 +6,24 @@ import Header from './Header'
 
 
 const FlexContainer = styled.div`
-display: ;
-justify-content: space-between; 
-align: center;
-
-padding: 15px;
+width: 60%;
 `
 const ImgWrapper = styled.img`
-width: 35%;
+width: 60%;
 margin: 15px;
 height: 60%;
-
+float: bottom;
 `
-
+const Wrapper = styled.div`
+display: block-flex;
+justify-content: space-between;
+align: center;
+padding: 15px;
+`
 class Bio extends Component {
     render() {
         return (
-            <div>
+            <Wrapper>
             <Header />
              <FlexContainer>
                  <h1>Bio</h1>
@@ -41,7 +42,7 @@ class Bio extends Component {
                  
     <ImgWrapper src="https://i.imgur.com/KNhmwJD.jpg"/>  
        </FlexContainer> 
-            </div>
+            </Wrapper>
         );
     }
 }
