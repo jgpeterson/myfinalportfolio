@@ -26,3 +26,14 @@ body {
   max-width: 300px;
   max-height: auto;
 }
+
+.bio {
+  text-align: justify;
+  color: white;
+  font-size: 25px;
+}
+
+ .bio img {
+    height: 300px;
+    float: bottom;
+  }
