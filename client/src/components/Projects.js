@@ -49,7 +49,7 @@ class Projects extends Component {
 
         return (
             <div>
-               
+               <Header />
                 {sites}
             </div>
         )
