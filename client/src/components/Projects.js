@@ -32,6 +32,7 @@ class Projects extends Component {
 
         const sites = this.state.projects.map((site) => {
             return (
+                
                 <FlexContainer>
                 <div>
                     <img src={site.name}/>
@@ -42,6 +43,7 @@ class Projects extends Component {
                 </div>
                 
                 </FlexContainer>
+                
             )
         })
 
