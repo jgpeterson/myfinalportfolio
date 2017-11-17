@@ -19,6 +19,9 @@ class Header extends Component {
             <div className="item">
             <Link to="/projects">Projects</Link>
             </div>
+            <div className="item">
+            <Link to="/contacts">Contacts</Link>
+            </div>
             </div>
             </div>
             
