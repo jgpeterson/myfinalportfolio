@@ -11,12 +11,6 @@ padding: 20px;
 float: center;
 aign-items: center;
 `
-const ImgWrapper = styled.img`
-display: flex;
-margin-left: 20%;
-padding: 20px;
-float: center;
-`
 const Wrapper = styled.div`
 
 `
@@ -30,7 +24,7 @@ class Contacts extends Component {
              <p>jamespeterson0918@yahoo.com</p>
              <a href="https://github.com/timothygein">Github</a>
               </FlexContainer>   
-    <ImgWrapper src="https://i.imgur.com/I5wUFAx.png"/>  
+    
         
             </Wrapper>
         );

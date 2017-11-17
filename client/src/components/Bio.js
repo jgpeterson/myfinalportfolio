@@ -39,7 +39,7 @@ class Bio extends Component {
                 <p></p>
 
                 <h4>Technologies Used for Portfolio</h4>
-                 
+                  <p>HTML5, CSS, Ruby, React, and Heroku (used to deploy the finalized working app)</p>
     <ImgWrapper src="https://i.imgur.com/KNhmwJD.jpg"/>  
        </FlexContainer> 
             </Wrapper>
