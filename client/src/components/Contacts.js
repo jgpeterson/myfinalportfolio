@@ -21,7 +21,7 @@ class Contacts extends Component {
             <Header />
              <FlexContainer>
              <h3>Click below to Download my Resume</h3>
-             <p>jamespeterson0918@yahoo.com</p>
+             <a href="path_to_file" download="proposed_file_name">Download</a>
             
               </FlexContainer>   
     
