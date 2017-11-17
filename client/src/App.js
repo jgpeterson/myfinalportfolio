@@ -5,6 +5,7 @@ import HomePage from "./components/HomePage"
 import MainMenu from "./components/MainMenu"
 import Bio from "./components/Bio"
 import Contacts from "./components/Contacts"
+
 class App extends Component {
   render() {
     return (

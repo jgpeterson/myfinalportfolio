@@ -20,9 +20,9 @@ class Contacts extends Component {
             <Wrapper>
             <Header />
              <FlexContainer>
-             <h3>Contact Me:</h3>
+             <h3>Click below to Download my Resume</h3>
              <p>jamespeterson0918@yahoo.com</p>
-             <a href="https://github.com/timothygein">Github</a>
+            
               </FlexContainer>   
     
         
