@@ -27,13 +27,17 @@ body {
   max-height: auto;
 }
 
+
+
+.james {
+  font-family: cursive;
+  font-size: 25px;
+}
 .bio {
   text-align: justify;
   color: white;
   font-size: 25px;
 }
-
-
 
 a:link {
   color: white;
