@@ -30,14 +30,11 @@ class Bio extends Component {
                    My only passion in life is to create and I think that without the ability and freedom to create any piece of art, one would go insane. 
                    "If you want to be creative don’t worry about style or what is trending. Focus on what you want to achieve and do it. Don’t worry about the veneer and packaging till after." - Vincent Van Gogh</p>
                  
-                  <h2>Languages</h2>
+                  <h2>Languages/Experience</h2>
                   <p>I started studying web development in August of 2017 and completed a 3 month immersive course in order to receive my certification, and my primary choice for development is React on Rails. I have experience in both front and back-end development, and also have efficient experience with 
                       Javascript, jQuery, Node ,SQL and Postgresql, Ajax ,HTML5, and CSS3.</p>
 
-                <h3>Experience</h3>
-                <p></p>
-
-                <h4>Technologies Used for Portfolio</h4>
+                <h3>Technologies Used for Portfolio</h3>
                   <p>HTML5, CSS, Ruby, React, and Heroku (used to deploy the finalized working app)</p>
     <ImgWrapper src="https://i.imgur.com/KNhmwJD.jpg"/>  
        </FlexContainer> 
