@@ -6,7 +6,7 @@ const Bar = styled.div`
 align-items: center;
 flex-direction: row;
 justify-content: space-between;
-padding: 0px 40px;
+padding: 40px 40px;
 border-bottom: 1px solid #DCDCDC :
 margin-bottom: 60px;
 height: 77px; 

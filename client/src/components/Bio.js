@@ -17,13 +17,18 @@ const Wrapper = styled.div`
 display: block-flex;
 justify-content: space-between;
 align: center;
-padding: 15px;
+margin-left: 2%;
 `
+
+const Bar = styled.div`
+`
+
 class Bio extends Component {
     render() {
         return (
-            <Wrapper>
+            <Bar>
             <Header />
+            <Wrapper>
              <FlexContainer>
                  <h1>Bio</h1>
                   <p>My name is James Peterson and I am a full-stack Web Application Developer currently living in Atlanta, Georgia. I have a Web Development certification from GA Assembly in Atlanta. In my spare time you can find me editing videos using Adobe Premeire or editing music using Adobe Audition.
@@ -50,6 +55,7 @@ class Bio extends Component {
        
        </FlexContainer> 
             </Wrapper>
+            </Bar>
         );
     }
 }
