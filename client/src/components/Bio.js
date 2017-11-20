@@ -13,6 +13,7 @@ width: 45%;
 height: 60%;
 float: bottom;
 `
+
 const Wrapper = styled.div`
 display: block-flex;
 justify-content: space-between;
