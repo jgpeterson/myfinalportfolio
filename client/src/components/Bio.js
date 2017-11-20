@@ -9,8 +9,7 @@ const FlexContainer = styled.div`
 width: 60%;
 `
 const ImgWrapper = styled.img`
-width: 60%;
-margin: 15px;
+width: 45%;
 height: 60%;
 float: bottom;
 `

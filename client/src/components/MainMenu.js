@@ -6,6 +6,7 @@ import Header from './Header'
 import HomePage from './HomePage'
 import Projects from './Projects'
 import Contacts from './Contacts'
+
 const FlexContainer = styled.div`
 display: flex;
 justify-content: space-around;

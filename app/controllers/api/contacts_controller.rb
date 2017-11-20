@@ -4,4 +4,10 @@ class Api::ContactsController < ApplicationController
    
         render json: @contacts
        end 
+
+    def download
+        send_data pdf,
+        :filename => "rdJamesResume.pdf",
+        :type => "application/pdf"
+    end
 end
