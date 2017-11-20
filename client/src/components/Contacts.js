@@ -21,9 +21,11 @@ class Contacts extends Component {
             <Wrapper>
             <Header />
              <FlexContainer>
-             <h3>Click below to Download my Resume</h3>
-             <p><a href="https://drive.google.com/drive/folders/1ntGmMC1cW4PhjxD_q-jtAd4fB6zRkfGf">Click here to Download my Resume</a></p>
+             <h4>Click below to Download my Resume</h4>
+             <button><a href="https://drive.google.com/drive/folders/1ntGmMC1cW4PhjxD_q-jtAd4fB6zRkfGf">Download</a></button>
             
+            
+
               </FlexContainer>    
             </Wrapper>
         );
