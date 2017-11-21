@@ -11,6 +11,7 @@ body {
   justify-content: space-between;
   align-items: center;
   color: white; 
+  font-size: 40px;
 }
 
 .item {
@@ -30,7 +31,7 @@ body {
       flex-direction: row;
       justify-content: space-between;
       align-items: center;
-      font-size: 40px;
+     
   }
   
  }
@@ -40,7 +41,7 @@ body {
     display: block-flex;
     justify-content: space-between;
     align-items: center;
-    margin-right: -6%;
+    
     font-size: 1.25rem;
       
       
