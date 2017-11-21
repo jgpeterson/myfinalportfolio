@@ -13,11 +13,24 @@ height: 77px;
 
 ` 
 
+const Head = styled.div`
+@media screen and (max-width:450px) {
+    .container {
+        font-size: 1rem;
+        margin-right: 30%;
+    }
+    .item {
+        font-size: 10px;
+    }
+   }
+`
+
+
 
 class Header extends Component {
     render() {
         return (
-        
+            <Head>
             <Bar>
             <div className="container">
             <div className="item">
@@ -31,6 +44,7 @@ class Header extends Component {
             </div>
             </div>
             </Bar>
+            </Head>
         );
     }
 }

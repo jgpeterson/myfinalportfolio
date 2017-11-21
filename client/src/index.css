@@ -24,31 +24,6 @@ body {
 
 }
 
-@media screen and (min-width:320px) {
-  .container  {
-      font-size: 1.25rem;
-      display: flex;
-      flex-direction: row;
-      justify-content: space-between;
-      align-items: center;
-     
-  }
-  
- }
-
- @media screen and (min-width:320px) {
-  .item {
-    display: block-flex;
-    justify-content: space-between;
-    align-items: center;
-    
-    font-size: 1.25rem;
-      
-      
-  }
-  
- }
-
 .photo img {
   max-width: 300px;
   max-height: auto;

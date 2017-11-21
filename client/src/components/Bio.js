@@ -23,14 +23,15 @@ margin-left: 2%;
 
 const Bar = styled.div`
 
-@media screen and (min-width:320px) {
-    p {
+@media screen and (max-width:450px) {
+    .h4 {
         font-size: 1.25rem
     }
-    h1 {
+    .button {
         font-size: 1.20rem
     }
    }
+
 `
 
 class Bio extends Component {

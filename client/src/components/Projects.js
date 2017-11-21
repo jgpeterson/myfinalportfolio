@@ -14,6 +14,15 @@ const FlexContainer = styled.div`
 
 const Back = styled.div`
 margin: 50px;
+
+@media screen and (max-width:450px) {
+    .h4 {
+        font-size: 1.25rem
+    }
+    .button {
+        font-size: 1.20rem
+    }
+   }
 `
 
 

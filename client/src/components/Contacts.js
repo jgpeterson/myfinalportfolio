@@ -13,7 +13,7 @@ flex-direction: column;
 text-align: center;
 `
 const Wrapper = styled.div`
-@media screen and (min-width:320px) {
+@media screen and (max-width:450px) {
     .h4 {
         font-size: 1.25rem
     }
