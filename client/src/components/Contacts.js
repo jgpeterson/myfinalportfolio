@@ -13,7 +13,14 @@ flex-direction: column;
 text-align: center;
 `
 const Wrapper = styled.div`
-
+@media screen and (min-width:320px) {
+    .h4 {
+        font-size: 1.25rem
+    }
+    .button {
+        font-size: 1.20rem
+    }
+   }
 `
 class Contacts extends Component {
     render() {

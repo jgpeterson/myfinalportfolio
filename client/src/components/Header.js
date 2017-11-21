@@ -10,6 +10,7 @@ padding: 40px 40px;
 border-bottom: 1px solid #DCDCDC :
 margin-bottom: 60px;
 height: 77px; 
+
 ` 
 
 
