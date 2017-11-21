@@ -22,7 +22,7 @@ class HomePage extends Component {
        <img src="https://i.imgur.com/vadmWmp.jpg"/>
        <div class="james">
        <p>James Peterson</p>
-       <p>Full Stack Web Developer</p>
+       <p>Full-Stack Web Developer</p>
        </div>
        <h1> <Link to="/Bio">ENTER</Link></h1>
         </div>
