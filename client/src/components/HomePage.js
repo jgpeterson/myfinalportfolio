@@ -19,7 +19,7 @@ class HomePage extends Component {
             
         <FlexContainer>
             <div class="photo">
-       <img src="https://i.imgur.com/l8RnQp2.jpg"/>
+       <img src="https://i.imgur.com/9Gh9BZS.jpg"/>
        <div class="james">
        <p>James Peterson</p>
        <p>Full-Stack Web Developer</p>
