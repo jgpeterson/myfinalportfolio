@@ -9,8 +9,8 @@ const FlexContainer = styled.div`
 width: 60%;
 `
 const ImgWrapper = styled.img`
-width: 45%;
-height: 60%;
+width: 15%;
+height: 20%;
 float: bottom;
 `
 
@@ -52,7 +52,7 @@ class Bio extends Component {
 
                 <h1>Technologies Used for Portfolio</h1>
                   <p>HTML5, CSS, Ruby, React, and Heroku (used to deploy the finalized working app)</p>
-    <ImgWrapper src="https://i.imgur.com/KNhmwJD.jpg"/>  
+    <ImgWrapper src="https://i.imgur.com/l8RnQp2.jpg"/>  
 
     <h3>Contact Me:</h3>
     <a href="https://www.linkedin.com/in/james-peterson-a6777814a/">LinkedIN</a>
