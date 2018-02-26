@@ -6,7 +6,7 @@ import Header from './Header'
 
 
 const FlexContainer = styled.div`
-width: 60%;
+width: 50%;
 color: white;
 `
 const ImgWrapper = styled.img`
@@ -56,7 +56,7 @@ class Bio extends Component {
     <ImgWrapper src="https://i.imgur.com/l8RnQp2.jpg"/>  
 
     <h3>Contact Me:</h3>
-    <a href="https://www.linkedin.com/in/james-peterson-a6777814a/">LinkedIN</a>
+    <a href="https://www.linkedin.com/in/james-peterson-a6777814a/">LinkedIn</a>
     <br />
     <br />
     <a href="https://github.com/timothygein">Github</a>
