@@ -7,6 +7,7 @@ import Header from './Header'
 
 const FlexContainer = styled.div`
 width: 60%;
+color: white;
 `
 const ImgWrapper = styled.img`
 width: 15%;

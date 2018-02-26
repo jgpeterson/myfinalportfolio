@@ -10,6 +10,8 @@ const FlexContainer = styled.div`
         height: 150px;
         float: bottom;
     }
+
+    color: white;
 `
 
 const Back = styled.div`

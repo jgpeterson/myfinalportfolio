@@ -11,6 +11,7 @@ align-items: center;
 height: 50vh;
 flex-direction: column;
 text-align: center;
+color: white;
 `
 
 class HomePage extends Component {
@@ -18,11 +19,11 @@ class HomePage extends Component {
         return (
             
         <FlexContainer>
+          <p>James Peterson</p>
+       <p>Full-Stack Web Developer</p>   
             <div class="photo">
        <img src="https://i.imgur.com/tz7l7bP.jpg"/>
        <div class="james">
-       <p>James Peterson</p>
-       <p>Full-Stack Web Developer</p>
        </div>
        <h1> <Link to="/Bio">ENTER</Link></h1>
         </div>

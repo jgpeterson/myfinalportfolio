@@ -11,6 +11,7 @@ padding: 150px;
 align-items: center;
 flex-direction: column;
 text-align: center;
+color: black;
 `
 const Wrapper = styled.div`
 @media screen and (max-width:450px) {
@@ -29,7 +30,7 @@ class Contacts extends Component {
             <Header />
              <FlexContainer>
              <h4>Click below to Download my Resume</h4>
-             <button><a href="https://drive.google.com/drive/folders/1ntGmMC1cW4PhjxD_q-jtAd4fB6zRkfGf">Download</a></button>
+             <a href="https://drive.google.com/drive/folders/1ntGmMC1cW4PhjxD_q-jtAd4fB6zRkfGf">Download</a>
             
             
 
