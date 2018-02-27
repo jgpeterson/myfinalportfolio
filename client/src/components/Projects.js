@@ -54,7 +54,7 @@ class Projects extends Component {
                     <img src={site.name}/>
                     <div>
                     <p>{site.description}</p>
-                   <p> <a href={site.info}><button>Click Here to View</button></a></p>
+                   <p> <Link to={site.info} target="_blank"><button>Click Here to View</button> </Link></p>
                     </div>
                 </div>
                 
