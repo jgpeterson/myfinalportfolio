@@ -59,7 +59,7 @@ class Bio extends Component {
     <a href="https://www.linkedin.com/in/james-peterson-a6777814a/">LinkedIn</a>
     <br />
     <br />
-    <a href="https://github.com/timothygein">Github</a>
+    <a href="https://github.com/jgpeterson">Github</a>
     <br />
     <br />
     <a href="https://profiles.generalassemb.ly/profiles/9427/preview">GA Profile</a>
