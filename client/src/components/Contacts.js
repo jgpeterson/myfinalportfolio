@@ -11,7 +11,7 @@ padding: 150px;
 align-items: center;
 flex-direction: column;
 text-align: center;
-color: black;
+color: white;
 `
 const Wrapper = styled.div`
 @media screen and (max-width:450px) {
