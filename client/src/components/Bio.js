@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import axios from 'axios'
 import styled from 'styled-components'
 import Header from './Header'
+import { SocialIcon } from 'react-social-icons';
 
 
 const FlexContainer = styled.div`
@@ -13,6 +14,12 @@ const ImgWrapper = styled.img`
 width: 15%;
 height: 20%;
 float: bottom;
+`
+
+const Contact = styled.div`
+display: flex;
+justify-content: space-between;
+width: 25%;
 `
 
 const Wrapper = styled.div`
@@ -56,14 +63,15 @@ class Bio extends Component {
     <ImgWrapper src="https://i.imgur.com/l8RnQp2.jpg"/>  
 
     <h3>Contact Me:</h3>
-    <a href="https://www.linkedin.com/in/james-peterson-a6777814a/" target="_blank">LinkedIn</a>
+    <Contact>
+    <SocialIcon url="https://www.linkedin.com/in/james-peterson-a6777814a/" />
     <br />
     <br />
-    <a href="https://github.com/jgpeterson" target="_blank">Github</a>
+    <SocialIcon url="https://github.com/jgpeterson" />
     <br />
     <br />
-    <a href="https://profiles.generalassemb.ly/profiles/9427/preview" target="_blank">GA Profile</a>
-
+    <SocialIcon url="https://profiles.generalassemb.ly/profiles/9427/preview" />
+     </Contact>
        
        </FlexContainer> 
             </Wrapper>
