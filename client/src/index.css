@@ -11,7 +11,9 @@ body {
   justify-content: space-between;
   align-items: center;
   color: white; 
+  font-family: '__Exo 2_3';
   font-size: 40px;
+  font-weight: 600;
 }
 
 .item {

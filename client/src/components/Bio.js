@@ -50,13 +50,11 @@ class Bio extends Component {
             <Wrapper>
              <FlexContainer>
                  <h1>Bio</h1>
-                  <p>My name is James Peterson and I am a full-stack Web Application Developer currently living in Atlanta, Georgia. I have a Web Development certification from GA Assembly in Atlanta. In my spare time you can find me editing videos using Adobe Premiere and Final Cut Pro or editing music using Adobe Audition CS5.
-                   My only passion in life is to create and I think that without the ability and artistic freedom to create any piece of art, one would go insane. 
-                   "If you want to be creative don’t worry about style or what is trending. Focus on what you want to achieve and do it. Don’t worry about the veneer and packaging till after." - Vincent Van Gogh</p>
+                  <p>Full-Stack Web Developer with a diverse background in coding Adobe softeware such as Premiere and Audition. "If you want to be creative don’t worry about style or what is trending. Focus on what you want to achieve and do it. Don’t worry about the veneer and packaging till after." - Vincent Van Gogh</p>
                  
                   <h1>Languages/Experience</h1>
-                  <p>I started studying Web Development in August of 2017 and completed a 3 month immersive course in order to receive my certification, and my primary choice for development is React on Rails. I have experience in both front and back-end development, and also have efficient experience with 
-                      Javascript, jQuery, Node ,SQL and Postgresql, Ajax ,HTML5, and CSS3.</p>
+                  <p>My primary choice for development is React on Rails. I have experience in both front and back-end development, and also have efficient experience with 
+                      Javascript, jQuery, MondoDB, Node ,SQL and Postgresql, Ajax ,HTML5, and CSS3.</p>
 
                 <h1>Technologies Used for Portfolio</h1>
                   <p>HTML5, CSS, Ruby, React, and Heroku (used to deploy the finalized working app)</p>
