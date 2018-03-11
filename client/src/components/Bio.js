@@ -56,13 +56,13 @@ class Bio extends Component {
     <ImgWrapper src="https://i.imgur.com/l8RnQp2.jpg"/>  
 
     <h3>Contact Me:</h3>
-    <a href="https://www.linkedin.com/in/james-peterson-a6777814a/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/james-peterson-a6777814a/" target="_blank">LinkedIn</a>
     <br />
     <br />
-    <a href="https://github.com/jgpeterson">Github</a>
+    <a href="https://github.com/jgpeterson" target="_blank">Github</a>
     <br />
     <br />
-    <a href="https://profiles.generalassemb.ly/profiles/9427/preview">GA Profile</a>
+    <a href="https://profiles.generalassemb.ly/profiles/9427/preview" target="_blank">GA Profile</a>
 
        
        </FlexContainer> 

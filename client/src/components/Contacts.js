@@ -31,7 +31,7 @@ class Contacts extends Component {
              <FlexContainer>
              <h4>Click below to Download my Resume</h4>
              <h1>
-             <a href="https://drive.google.com/drive/folders/1ntGmMC1cW4PhjxD_q-jtAd4fB6zRkfGf">Download</a>
+             <a href="https://drive.google.com/drive/folders/1ntGmMC1cW4PhjxD_q-jtAd4fB6zRkfGf" target="_blank">Download</a>
             </h1>
             
 
