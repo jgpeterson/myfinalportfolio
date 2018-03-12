@@ -68,7 +68,6 @@ class Bio extends Component {
     <SocialIcon url="https://github.com/jgpeterson" />
     <br />
     <br />
-    <SocialIcon url="https://profiles.generalassemb.ly/profiles/9427/preview" />
      </Contact>
        
        </FlexContainer> 
