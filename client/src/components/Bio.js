@@ -53,7 +53,7 @@ class Bio extends Component {
                   <p>Full-Stack Web Developer with a diverse background in coding Adobe softeware such as Premiere and Audition. "If you want to be creative don’t worry about style or what is trending. Focus on what you want to achieve and do it. Don’t worry about the veneer and packaging till after." - Vincent Van Gogh</p>
                  
                   <h1>Languages/Experience</h1>
-                  <p>My primary choice for development is React on Rails. I have experience in both front and back-end development, and also have efficient experience with 
+                  <p>My primary choice for development is React on Rails. I have experience in both Front and Back-end development, and also have efficient experience with 
                       Javascript, jQuery, MondoDB, Node ,SQL and Postgresql, Ajax ,HTML5, and CSS3.</p>
 
                 <h1>Technologies Used for Portfolio</h1>
