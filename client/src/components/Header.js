@@ -32,14 +32,11 @@ class Header extends Component {
         return (
             <Head>
             <Bar>
-            <div className="container">
-            <div className="item">
-              <Link to="/bio">About Me</Link>
-            </div>
-            <div className="item">
+            <div className="dropdown">
+            <button class="dropbtn">Nav</button>
+            <div class="dropdown-content">
+            <Link to="/bio">About Me</Link>
             <Link to="/projects">Projects</Link>
-            </div>
-            <div className="item">
             <Link to="/contacts">Resume</Link>
             </div>
             </div>
