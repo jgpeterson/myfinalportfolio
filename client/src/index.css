@@ -3,6 +3,8 @@ body {
   padding: 0;
   font-family: sans-serif;
   background-image: url("https://i.imgur.com/s7Avpce.png");
+  background-attachment: fixed;
+
 }
 
 .container {
@@ -27,12 +29,16 @@ body {
 }
 
 
+
 .photo img {
   max-width: 300px;
   max-height: auto;
 }
 
-
+ul.me {
+  list-style-type: lower-greek;
+  color: white;
+}
 
 .james {
   font-size: 25px;

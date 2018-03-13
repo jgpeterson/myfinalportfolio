@@ -49,10 +49,10 @@ class Bio extends Component {
             <Header />
             <Wrapper>
              <FlexContainer>
-                 <h1>Bio</h1>
-                  <p>Full-Stack Web Developer with a diverse background in coding Adobe softeware such as Premiere and Audition. "If you want to be creative don’t worry about style or what is trending. Focus on what you want to achieve and do it. Don’t worry about the veneer and packaging till after." - Vincent Van Gogh</p>
+                 <h1>James Peterson</h1>
+                  <ul class="me">Full-Stack Web Developer with a diverse background in coding Adobe softeware such as Premiere and Audition. "If you want to be creative don’t worry about style or what is trending. Focus on what you want to achieve and do it. Don’t worry about the veneer and packaging till after." - Vincent Van Gogh</ul>
                  
-                  <h1>Languages/Experience</h1>
+                  <h3>Languages/Experience</h3>
                   <p>My primary choice for development is React on Rails. I have experience in both Front and Back-end development, and also have efficient experience with 
                       Javascript, jQuery, MondoDB, Node ,SQL and Postgresql, Ajax ,HTML5, and CSS3.</p>
 

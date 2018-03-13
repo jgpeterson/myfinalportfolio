@@ -7,7 +7,7 @@ import Header from './Header'
 const FlexContainer = styled.div`
 
     img {
-        height: 150px;
+        height: 400px;
         float: bottom;
     }
 
