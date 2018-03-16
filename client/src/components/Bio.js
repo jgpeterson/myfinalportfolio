@@ -11,8 +11,8 @@ width: 50%;
 color: white;
 `
 const ImgWrapper = styled.img`
-width: 15%;
-height: 20%;
+width: 25%;
+height: 25%;
 float: bottom;
 `
 
