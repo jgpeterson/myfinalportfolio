@@ -12,6 +12,15 @@ const FlexContainer = styled.div`
     }
 
     color: white;
+
+    @media screen and (max-width:400px) {
+        .ga img {
+            font-size: 1.25rem;
+            max-width: 200px;
+            max-height: 200px;
+        }
+    }
+    
 `
 
 const Back = styled.div`
@@ -25,6 +34,7 @@ margin: 50px;
         font-size: 1.20rem
     }
    }
+}
 `
 
 
@@ -50,11 +60,11 @@ class Projects extends Component {
             return (
                 <Back>
                 <FlexContainer>
-                <div>
+                <div class="ga">
                     <img src={site.name}/>
                     <div>
                     <p>{site.description}</p>
-                   <p> <Link to={site.info} target="_blank"><button>Click Here to View</button> </Link></p>
+                   <p class="click"> <Link to={site.info} target="_blank"><button>Click Here to View</button> </Link></p>
                     </div>
                 </div>
                 
