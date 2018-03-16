@@ -17,7 +17,7 @@ const FlexContainer = styled.div`
         .ga img {
             font-size: 1.25rem;
             max-width: 200px;
-            max-height: 200px;
+            max-height: 200px
         }
     }
     
@@ -64,7 +64,7 @@ class Projects extends Component {
                     <img src={site.name}/>
                     <div>
                     <p>{site.description}</p>
-                   <p class="click"> <Link to={site.info} target="_blank"><button>Click Here to View</button> </Link></p>
+                   <p> <Link to={site.info} target="_blank"><button>Click Here to View</button> </Link></p>
                     </div>
                 </div>
                 

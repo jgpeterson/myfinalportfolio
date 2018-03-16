@@ -50,14 +50,16 @@ class Bio extends Component {
             <Wrapper>
              <FlexContainer>
                  <h1>James Peterson</h1>
-                  <ul>Full-Stack Web Developer with a diverse background in coding Adobe softeware such as Premiere and Audition. "If you want to be creative don’t worry about style or what is trending. Focus on what you want to achieve and do it. Don’t worry about the veneer and packaging till after." - Vincent Van Gogh</ul>
-                 
-                  <h3>Languages/Experience</h3>
-                  <p>My primary choice for development is React on Rails. I have experience in both Front and Back-end development, and also have efficient experience with 
-                      Javascript, jQuery, MondoDB, Node ,SQL and Postgresql, Ajax ,HTML5, and CSS3.</p>
-
+                 <ul>
+                  <li>Full-Stack Web Developer with a diverse background in coding Adobe softeware such as Premiere and Audition. "If you want to be creative don’t worry about style or what is trending. Focus on what you want to achieve and do it. Don’t worry about the veneer and packaging till after." - Vincent Van Gogh</li>
+                 </ul>
+                  <h1>Languages/Experience</h1>
+                  <ul>
+                  <li>My primary choice for development is React on Rails. I have experience in both Front and Back-end development, and also have efficient experience with 
+                      Javascript, jQuery, MondoDB, Node ,SQL and Postgresql, Ajax ,HTML5, and CSS3.</li>
+                   </ul>
                 <h1>Technologies Used for Portfolio</h1>
-                  <p>HTML5, CSS, Ruby, React, and Heroku (used to deploy the finalized working app)</p>
+                  <ul>HTML5, CSS, Ruby, React, and Heroku (used to deploy the finalized working app)</ul>
     <ImgWrapper src="https://i.imgur.com/l8RnQp2.jpg"/>  
 
     <h3>Contact Me:</h3>

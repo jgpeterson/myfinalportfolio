@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 
 const Bar = styled.div`
-align-items: center;
+text-align: right;
 flex-direction: row;
 justify-content: space-between;
 padding: 40px 40px;
@@ -33,7 +33,7 @@ class Header extends Component {
             <Head>
             <Bar>
             <div className="dropdown">
-            <button class="dropbtn">Nav</button>
+            <button class="dropbtn">Navigate</button>
             <div class="dropdown-content">
             <Link to="/bio">About Me</Link>
             <Link to="/projects">Projects</Link>

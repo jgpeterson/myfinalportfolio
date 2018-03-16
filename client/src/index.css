@@ -12,6 +12,15 @@ body {
   display: flex;
 }
 
+@media screen and (max-width:450px) {
+  .click {
+      color: white;
+  }
+}
+
+ul {list-style: square;
+}
+
 .dropbtn {
   background-color: white;
   color: black;
