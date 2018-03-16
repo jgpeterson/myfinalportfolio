@@ -9,6 +9,7 @@ import { SocialIcon } from 'react-social-icons';
 const FlexContainer = styled.div`
 width: 50%;
 color: white;
+font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 `
 const ImgWrapper = styled.img`
 width: 25%;
