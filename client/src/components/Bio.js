@@ -59,7 +59,9 @@ class Bio extends Component {
                       Javascript, jQuery, MondoDB, Node ,SQL and Postgresql, Ajax ,HTML5, and CSS3.</li>
                    </ul>
                 <h1>Technologies Used for Portfolio</h1>
-                  <ul>HTML5, CSS, Ruby, React, and Heroku (used to deploy the finalized working app)</ul>
+                  <ul>
+                      <li>HTML5, CSS, Ruby, React, and Heroku (used to deploy the finalized working app)</li>
+                  </ul>
     <ImgWrapper src="https://i.imgur.com/l8RnQp2.jpg"/>  
 
     <h3>Contact Me:</h3>
