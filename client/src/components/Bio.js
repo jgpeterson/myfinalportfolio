@@ -52,7 +52,7 @@ class Bio extends Component {
              <FlexContainer>
                  <h1>James Peterson</h1>
                  <ul>
-                  <li>Full-Stack Web Developer with a diverse background in coding Adobe softeware such as Premiere and Audition. "If you want to be creative don’t worry about style or what is trending. Focus on what you want to achieve and do it. Don’t worry about the veneer and packaging till after." - Vincent Van Gogh</li>
+                  <li>Full-Stack Web Developer with a diverse background in coding Adobe software such as Premiere and Audition. "If you want to be creative don’t worry about style or what is trending. Focus on what you want to achieve and do it. Don’t worry about the veneer and packaging till after." - Vincent Van Gogh</li>
                  </ul>
                   <h1>Languages/Experience</h1>
                   <ul>
